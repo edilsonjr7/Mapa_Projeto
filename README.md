@@ -10,8 +10,13 @@ Objetivo: Criar um app para a geolocalização para o zoológico
 Membros: 
 
 André Oliveira
+<br>
 Alessandra Araujo
+<br>
 Edilson Junior
+<br>
 Gustavo Pereira
+<br>
 Matheus Tinel
+<br>
 Wendel Silva
