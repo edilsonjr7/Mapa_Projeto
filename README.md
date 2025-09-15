@@ -5,7 +5,7 @@ Aqui guardaremos as modificações feitas ao longo do projeto
 
 --------------------------------------------------------------------------------
 
-Objetivo: Criar um app para a geolocalização para o zoológico
+Objetivo: Criar um app para a geolocalização do zoológico
 
 Membros: 
 
